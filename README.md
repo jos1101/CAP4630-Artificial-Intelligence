@@ -1,2 +1,4 @@
 # CAP4630-Artificial-Intelligence
-projects for AI
+Projects for AI
+
+Project descriptions can be found in the .pdf files associated with each project.
