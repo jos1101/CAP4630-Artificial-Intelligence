@@ -1,0 +1,29 @@
+Attributes:
+
+drink: water, coffee
+alcohol: wine, beer
+soda: coke, pepsi
+appetizer: soup, salad
+breakfast: eggs, toast
+lunch: sandwich, burger
+dinner: fish, beef
+dessert: cake, icecream
+
+Hard Constraints:
+
+soup OR NOT beer
+soup OR NOT wine
+sandwich OR NOT cake
+water AND NOT fish
+soup OR NOT eggs OR NOT sandwich
+eggs OR pepsi 
+
+Preferences:
+
+fish AND wine, 7
+coke OR eggs, 6
+cake OR burger, 5
+eggs AND icecream, 3
+water OR soup, 10
+beer AND burger, 9
+toast OR pepsi, 8
